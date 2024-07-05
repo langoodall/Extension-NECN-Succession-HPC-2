@@ -37,33 +37,33 @@
   
   <ItemGroup>
     <Reference Include="Landis.Library.AgeOnlyCohorts-v3">
-      <HintPath>..\..\build\Landis.Library.AgeOnlyCohorts-v3.dll</HintPath>
+      <HintPath>..\..\build\extensions\Landis.Library.AgeOnlyCohorts-v3.dll</HintPath>
     </Reference>
     <Reference Include="Landis.Library.Biomass-v2">
-      <HintPath>..\..\build\Landis.Library.Biomass-v2.dll</HintPath>
+      <HintPath>..\..\build\extensions\Landis.Library.Biomass-v2.dll</HintPath>
     </Reference>
     <Reference Include="Landis.Library.BiomassCohorts-v3">
-      <HintPath>..\..\build\Landis.Library.BiomassCohorts-v3.dll</HintPath>
+      <HintPath>..\..\build\extensions\Landis.Library.BiomassCohorts-v3.dll</HintPath>
     </Reference>
     <Reference Include="Landis.Library.Climate-v4">
-      <HintPath>..\..\build\Landis.Library.Climate-v4.3.dll</HintPath>
+      <HintPath>..\..\build\extensions\Landis.Library.Climate-v4.3.dll</HintPath>
     </Reference>
     <Reference Include="Landis.Library.Cohorts-v2">
-      <HintPath>..\..\build\Landis.Library.Cohorts-v2.dll</HintPath>
+      <HintPath>..\..\build\extensions\Landis.Library.Cohorts-v2.dll</HintPath>
     </Reference>
     <Reference Include="Landis.Library.LeafBiomassCohorts-v2">
-      <HintPath>..\..\build\Landis.Library.LeafBiomassCohorts-v2.dll</HintPath>
+      <HintPath>..\..\build\extensions\Landis.Library.LeafBiomassCohorts-v2.dll</HintPath>
     </Reference>
     <Reference Include="Landis.Library.Metadata-v2">
-      <HintPath>..\..\build\Landis.Library.Metadata-v2.dll</HintPath>
+      <HintPath>..\..\build\extensions\Landis.Library.Metadata-v2.dll</HintPath>
     </Reference>
     <Reference Include="Landis.Library.Parameters-v2">
-      <HintPath>..\..\build\Landis.Library.Parameters-v2.dll</HintPath>
+      <HintPath>..\..\build\extensions\Landis.Library.Parameters-v2.dll</HintPath>
     </Reference>
     <Reference Include="Landis.Library.Succession-v8">
     </Reference>
     <Reference Include="Landis.Library.InitialCommunity.LeafBiomass">
-      <HintPath>..\..\build\Landis.Library.InitialCommunity.LeafBiomass.dll</HintPath>
+      <HintPath>..\..\build\extensions\Landis.Library.InitialCommunity.LeafBiomass.dll</HintPath>
 		</Reference>
 		<Reference Include="MathNet.Numerics">
 		</Reference>  
