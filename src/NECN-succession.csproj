@@ -26,7 +26,7 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
     <OutputPath>..\..\build\extensions</OutputPath>
-  </PropertyGroup>
+</PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Landis.Core" Version="2.0.0" />
@@ -37,34 +37,34 @@
   
   <ItemGroup>
     <Reference Include="Landis.Library.AgeOnlyCohorts-v3">
-      <HintPath>..\..\build\extensions\Landis.Library.AgeOnlyCohorts-v3.dll</HintPath>
+      <HintPath>..\..\Support-Library-Dlls-v7\Landis.Library.AgeOnlyCohorts-v3.dll</HintPath>
     </Reference>
     <Reference Include="Landis.Library.Biomass-v2">
-      <HintPath>..\..\build\extensions\Landis.Library.Biomass-v2.dll</HintPath>
+      <HintPath>..\..\Support-Library-Dlls-v7\Landis.Library.Biomass-v2.dll</HintPath>
     </Reference>
     <Reference Include="Landis.Library.BiomassCohorts-v3">
-      <HintPath>..\..\build\extensions\Landis.Library.BiomassCohorts-v3.dll</HintPath>
+      <HintPath>..\..\Support-Library-Dlls-v7\Landis.Library.BiomassCohorts-v3.dll</HintPath>
     </Reference>
     <Reference Include="Landis.Library.Climate-v4">
-      <HintPath>..\..\build\extensions\Landis.Library.Climate-v4.3.dll</HintPath>
+      <HintPath>..\..\Support-Library-Dlls-v7\Landis.Library.Climate-v4.3.dll</HintPath>
     </Reference>
     <Reference Include="Landis.Library.Cohorts-v2">
-      <HintPath>..\..\build\extensions\Landis.Library.Cohorts-v2.dll</HintPath>
+      <HintPath>..\..\Support-Library-Dlls-v7\Landis.Library.Cohorts-v2.dll</HintPath>
     </Reference>
     <Reference Include="Landis.Library.LeafBiomassCohorts-v2">
-      <HintPath>..\..\build\extensions\Landis.Library.LeafBiomassCohorts-v2.dll</HintPath>
+      <HintPath>..\..\Support-Library-Dlls-v7\Landis.Library.LeafBiomassCohorts-v2.dll</HintPath>
     </Reference>
     <Reference Include="Landis.Library.Metadata-v2">
-      <HintPath>..\..\build\extensions\Landis.Library.Metadata-v2.dll</HintPath>
+      <HintPath>..\..\Support-Library-Dlls-v7\Landis.Library.Metadata-v2.dll</HintPath>
     </Reference>
     <Reference Include="Landis.Library.Parameters-v2">
-      <HintPath>..\..\build\extensions\Landis.Library.Parameters-v2.dll</HintPath>
+      <HintPath>..\..\Support-Library-Dlls-v7\Landis.Library.Parameters-v2.dll</HintPath>
     </Reference>
     <Reference Include="Landis.Library.Succession-v8">
-      <HintPath>..\..\build\extensions\Landis.Library.InitialCommunity.Succession-v8.dll</HintPath>
+      <HintPath>..\..\Support-Library-Dlls-v7\Landis.Library.Succession-v8.dll</HintPath>
     </Reference>
     <Reference Include="Landis.Library.InitialCommunity.LeafBiomass">
-      <HintPath>..\..\build\extensions\Landis.Library.InitialCommunity.LeafBiomass.dll</HintPath>
+      <HintPath>..\..\Support-Library-Dlls-v7\Landis.Library.InitialCommunity.LeafBiomass.dll</HintPath>
 		</Reference>
 		<Reference Include="MathNet.Numerics">
 		</Reference>  
